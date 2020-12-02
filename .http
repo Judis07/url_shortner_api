@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.amazon.in/s?i=electronics&bbn=1389432031&rh=n%3A976419031%2Cn%3A1389401031%2Cn%3A1389432031%2Cn%3A1805560031%2Cp_89%3AOnePlus&dc&fst=as%3Aoff&pf_rd_i=mobile&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_p=8d65c9b5-bff1-4020-8650-a64b96e02204&pf_rd_r=2FQ7Z1DYZ1EBT5VPF68F&pf_rd_s=merchandised-search-8&pf_rd_t=Gateway&qid=1605265856&rnid=1389432031&ref=sr_nr_n_1"
+}
